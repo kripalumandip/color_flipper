@@ -1,0 +1,21 @@
+main {
+    text-align: center;
+    
+}
+h1 {
+    font-size: 3rem;
+}
+button {
+    font-size: 2rem;
+    /* border-radius: 23px; */
+    background-color: #cae7f9;
+    padding: 5px;
+}
+h2, p {
+font-family: sans-serif;
+}
+button:hover {
+cursor: pointer;
+color: white;
+background-color: rgb(63, 87, 197);
+}
